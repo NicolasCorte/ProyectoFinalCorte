@@ -135,4 +135,7 @@
     height: 110vh;
     gap: 0.1rem;
   }
+  .inicio-text h1 {
+    font-size: 2.5rem;
+  }
 }
