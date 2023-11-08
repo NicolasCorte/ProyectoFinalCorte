@@ -1,0 +1,68 @@
+[
+  {
+    "id": "menu-1",
+    "titulo": "Guiso de la casa",
+    "imagen": "./img/menu-1.png",
+    "parrafo": "Contiene carne, verduras, legumbres y especias.",
+    "categoria": {
+      "nombre": "Guiso",
+      "id": "Guiso"
+    },
+    "precio": "$15,99"
+  },
+  {
+    "id": "menu-2",
+    "titulo": "Pasta al dente",
+    "imagen": "./img/menu-2.png",
+    "parrafo": "Fideos al dente con hongos salteados y queso rallado.",
+    "categoria": {
+      "nombre": "Fideos",
+      "id": "Fideos"
+    },
+    "precio": "$19,99"
+  },
+  {
+    "id": "menu-3",
+    "titulo": "Arroz con pollo",
+    "imagen": "./img/menu-3.png",
+    "parrafo": "Pollo tierno y arroz suelto con salsa de verduras.",
+    "categoria": {
+      "nombre": "Pollo",
+      "id": "Pollo"
+    },
+    "precio": "$21,99"
+  },
+  {
+    "id": "menu-4",
+    "titulo": "Sopa vegana",
+    "imagen": "./img/menu-4.png",
+    "parrafo": "Pollo tierno y arroz suelto con salsa de verduras.",
+    "categoria": {
+      "nombre": "Sopa",
+      "id": "Sopa"
+    },
+    "precio": "$17,99"
+  },
+  {
+    "id": "menu-5",
+    "titulo": "Salmon Rosado",
+    "imagen": "./img/menu-5.png",
+    "parrafo": "Salmón fresco con palta, arroz y eneldo.",
+    "categoria": {
+      "nombre": "Salmon",
+      "id": "Salmon"
+    },
+    "precio": "$24,99"
+  },
+  {
+    "id": "menu-6",
+    "titulo": "Arroz al mar",
+    "imagen": "./img/menu-6.png",
+    "parrafo": "Camarones salteados con arroz al limón y arvejas.",
+    "categoria": {
+      "nombre": "Arroz",
+      "id": "Arroz"
+    },
+    "precio": "$15,99"
+  }
+]
